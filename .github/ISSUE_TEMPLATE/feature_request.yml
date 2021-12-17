@@ -13,6 +13,9 @@ body:
     attributes:
       label: Is there an existing feature request for this?
       description: Please search to see if a feature request already exists for this project.
+      options:
+      - label: I have searched the existing features
+        required: true
       
   - type: textarea
     id: feature-description
