@@ -44,3 +44,4 @@ body:
       label: Additional Information
       description: |
         Provide any additional information such as logs, screenshots, or scenarios in which the bug occurs which may be helpful in resolving the issue.
+        
