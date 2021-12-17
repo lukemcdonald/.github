@@ -8,7 +8,7 @@ body:
       value: |
         Thank you for taking the time to fill out this feature request!
   
-  - type: checkbox
+  - type: checkboxes
     id: new-feature
     attributes:
       label: Is there an existing feature request for this?
